@@ -14,18 +14,19 @@
 -define(RATE_DECIMALS_LTC_BTC, 5).
 -define(RATE_DECIMALS_LTC_USD, 6).
 -define(RATE_DECIMALS_LTC_RUR, 5).
--define(RATE_DECIMALS_LTC_EUR, 5).
+-define(RATE_DECIMALS_LTC_EUR, 3).
 -define(RATE_DECIMALS_NMC_BTC, 5).
--define(RATE_DECIMALS_NMC_USD, 5).
+-define(RATE_DECIMALS_NMC_USD, 3).
 -define(RATE_DECIMALS_NVC_BTC, 5).
--define(RATE_DECIMALS_NVC_USD, 5).
+-define(RATE_DECIMALS_NVC_USD, 3).
 -define(RATE_DECIMALS_USD_RUR, 5).
 -define(RATE_DECIMALS_EUR_USD, 5).
 -define(RATE_DECIMALS_TRC_BTC, 5).
 -define(RATE_DECIMALS_PPC_BTC, 5).
--define(RATE_DECIMALS_PPC_USD, 5).
+-define(RATE_DECIMALS_PPC_USD, 3).
 -define(RATE_DECIMALS_FTC_BTC, 5).
 -define(RATE_DECIMALS_XPM_BTC, 5).
+
 
 %% max decimal places for amounts
 -define(AMOUNT_DECIMALS_BTC_USD, 8).
